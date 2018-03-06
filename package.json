@@ -1,12 +1,12 @@
 {
-    "name": "youtube-dl",
+    "name": "@brainsights/youtube-dl",
     "description": "youtube-dl driver for node",
     "keywords": [
         "youtube",
         "video",
         "download"
     ],
-    "version": "1.12.2",
+    "version": "1.12.3",
     "repository": {
         "type": "git",
         "url": "git://github.com/przemyslawpluta/node-youtube-dl.git"
